@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: com.practica.uno
+logging:
+  level:
+    root: DEBUG
