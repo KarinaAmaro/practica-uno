@@ -55,7 +55,6 @@ Una vez clonado el proyecto e importado en el IDE, abrir una terminal donde se e
     Request { "string":"Kat"}
     Response { "string": "Hola Kat, bienveido a Spring Boot."}
 
-
 ## Autor✒️
 
 ---
